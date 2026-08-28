@@ -9,14 +9,14 @@
 
  2. Class Bike Demo
 
-![Class Bike Demo](img/classBikeDemo.png)
+
 
  3. Class Road Bike
 
 ![Class Road Bike](img/classRoadBike.png)
  
  4. Hasil
- 
+
  ![alt text](img/result.png)
 
 2. Jawab Pertanyaan
