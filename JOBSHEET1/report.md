@@ -9,7 +9,7 @@
 
  2. Class Bike Demo
 
-
+![alt text](img/classBikeDemo.png)
 
  3. Class Road Bike
 
