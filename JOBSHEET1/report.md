@@ -16,6 +16,7 @@
 ![Class Road Bike](img/classRoadBike.png)
  
  4. Hasil
+ 
  ![alt text](img/result.png)
 
 2. Jawab Pertanyaan
