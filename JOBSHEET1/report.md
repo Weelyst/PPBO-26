@@ -14,6 +14,9 @@
  3. Class Road Bike
 
 ![Class Road Bike](img/classRoadBike.png)
+ 
+ 4. Hasil
+ ![alt text](img/result.png)
 
 2. Jawab Pertanyaan
  1. Jelaskan perbedaan antara object dengan class!
